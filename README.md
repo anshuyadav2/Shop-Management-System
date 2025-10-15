@@ -58,5 +58,4 @@ Built with **Python (Tkinter)** for GUI and **MySQL** for database storage.
 
 ---
 
-## 🗂️ Folder Structure
 
